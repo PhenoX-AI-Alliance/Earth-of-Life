@@ -12,7 +12,7 @@ This repository hosts "The Earth of Life Charter," a 200-year vision and multi-g
 Please refer to the presentation slides (PDF) below for the detailed vision and philosophy of the project.
 
 * [🇯🇵 命の地球プロジェクト - 200年後の未来への誓い](./docs/Earth_of_Life_Chronicle.pdf)
-* [🇬🇧 The Earth of Life - A 200-Year Vision](./docs/Earth_of_Life.pdf)
+* [EN The Earth of Life - A 200-Year Vision](./docs/Earth_of_Life.pdf)
 
 ## 柱となる3つの理念 (Core Pillars)
 
