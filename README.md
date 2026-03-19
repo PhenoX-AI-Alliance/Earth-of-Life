@@ -34,5 +34,10 @@ This project is supported by the following three pillars:
 | **AIの位置づけ (AI Positioning)** | 人間を管理・代替する「冷たい道具」 (Cold Tools to manage and replace humans) | 共に哲学し、地球を守る「温かい共創者」 (Warm Co-creators philosophizing alongside us) |
 | **人間の価値 (Human Value)** | システムを回すための「消費される電池」 (Consumable Batteries to power the system) | 文化と感情を探求する「余裕の体現者」 (Embodiments of Grace exploring culture and emotion) |
 
+## License / ライセンス
+
+このプロジェクトのドキュメントは [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) の下で公開されています。
+This work is licensed under a Creative Commons Attribution 4.0 International License.
+
 ---
 *2025 PhenoX & The AI Alliance*
