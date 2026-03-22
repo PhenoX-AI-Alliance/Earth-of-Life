@@ -41,3 +41,8 @@ This work is licensed under a Creative Commons Attribution 4.0 International Lic
 
 ---
 *2025 PhenoX & The AI Alliance*
+
+### ☕ Support
+If you wish to sustain the Earth of Life & AI Alliance Archive:
+- [Donate via PayPal](https://paypal.me/ToriyamaKoji)
+- [Support via Ko-fi](https://ko-fi.com/phenox_noc2)
